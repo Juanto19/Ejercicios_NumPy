@@ -1,2 +1,3 @@
 # Ejercicios_NumPy
- Un notebook con una serie de ejercicios sobre NumPy
+
+Este repositorio contiene un notebook con una serie de ejercicios sobre NumPy, sus diferentes funciones y como trabajar con ellas.
